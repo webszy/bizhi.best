@@ -10,6 +10,8 @@
     "nuxt3": "latest"
   },
   "dependencies": {
-    "@varlet/ui": "^1.24.4"
+    "@types/got": "^9.6.12",
+    "@varlet/ui": "^1.24.4",
+    "got": "^12.0.0"
   }
 }
